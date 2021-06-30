@@ -1,0 +1,83 @@
+.sub--section-heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.sub--section-heading p{
+    /* border: 2px solid green; */
+    font-weight:900;
+    font-size: 30px;
+    border-bottom: 6px solid #5320BA;
+
+}
+
+.about-section--1{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.vision--image{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.vision--image img{
+    /* border: 2px solid green; */
+    width: 80%;
+}
+
+.about-section--2{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.vision--image-1 img{
+    /* border: 2px solid green; */
+    width: 80%;
+}
+
+.about-section--3{
+    background:#7861a7;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.contact-about{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.input-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.input-section button{
+    background: #5320BA 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    padding:1rem;
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.input-section button:hover{
+    background: #A6EF18 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    padding:1rem;
+}
+
+.email-section p{
+    color: #fff;
+}

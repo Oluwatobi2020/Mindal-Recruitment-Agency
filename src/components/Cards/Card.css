@@ -1,0 +1,24 @@
+.item--wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding:1rem;
+    
+    }
+    
+
+.items{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 5px #0000004D;
+    border-radius: 10px;
+    width: 20%;
+    padding:1rem;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+    margin-top: 0;
+}
+
+.items h3{
+    padding: 1.5rem;
+}

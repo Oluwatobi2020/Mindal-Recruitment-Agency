@@ -1,0 +1,25 @@
+.section--3{
+    padding: 3rem;
+    background: #333333 0% 0% no-repeat padding-box;
+}
+
+.sub-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-footer p{
+        color: #fff;
+}
+
+.sub-footer h3{
+    color: #fff;
+}
+
+.section-footer--1{
+    margin-top: 3rem;
+}
+
+.section-footer--2{
+    margin-top: 3rem;
+}
